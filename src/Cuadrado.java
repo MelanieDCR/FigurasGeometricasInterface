@@ -29,3 +29,4 @@ public class Cuadrado implements FiguraGeometrica{
 		return "Cuadrado [name=" + name + ", lado=" + lado + "]";
 	}//toString
 } //class Cuadrado
+
